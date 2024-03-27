@@ -6,7 +6,7 @@ Here are some good questions to ask at the end of the interview, extracted from 
 
 * **What are you most proud about in your career so far?**
 * **What is the most important/valuable thing you have learnt from working here?**
-* How do your clients and customers define success?
+* **How do your clients and customers define success?**
 * What would you change around here if you could?
 * What are some weaknesses of the organization?
 * What does a typical day look like for you?
@@ -40,7 +40,7 @@ These questions are suitable for any technical role.
 * **I do / don't have experience in domain X. How important is this for me to be able to succeed?**
 * How do you evaluate new technologies? Who makes the final decisions?
 * How do you know what to work on each day?
-* How would you describe your engineering culture?
+* **How would you describe your engineering culture?**
 * How has your role changed since joining the company?
 * What is your stack? What is the rationale for/story behind this specific stack?
 * Do you tend to roll your own solutions more often or rely on third party tools? What's the rationale in a specific case?
@@ -57,7 +57,7 @@ These questions are suitable for any technical role.
 * Tell me about the main products of your company.
 * What is the current version of product? (If it is v1.0 or similar - there could be a lot of chaos to work with)
 * What products are your main competitors?
-* What makes your product competitive?
+* **What makes your product competitive?**
 * When are you planning to provide the next release? (If in several months, it would mean a lot of requirements specified in job description are not needed right now)
 * Is the team growing, and what sort of opportunities will there be in the next year/3 years?
 * What are your highest priorities right now? For example, new features, new products, solidifying existing code, reducing operations overhead?
@@ -73,8 +73,8 @@ These questions are suitable for asking Engineering Managers, especially useful 
 * **Can you tell me about a time you resolved an interpersonal conflict?**
 * How did you become a manager?
 * How do your engineers know what to work on each day?
-* What is your team's biggest challenge right now?
-* How do you measure individual performance?
+* **What is your team's biggest challenge right now?**
+* **How do you measure individual performance?**
 * How often are 1:1s conducted?
 * What is the current team composition like?
 * What opportunities are available to switch roles? How does this work?
@@ -83,13 +83,13 @@ These questions are suitable for asking Engineering Managers, especially useful 
 * Where do you spend more of your time, high performers or low performers?
 * Sometimes there's a trade-off between what's best for one of your team members and what's best for the team. Give an example of how you handled this and why.
 * Give an example of a time you faced a difficult mentoring/coaching challenge. What did you do and why?
-* What is your management philosophy?
+* **What is your management philosophy?**
 * What is the role of data and metrics in managing a team like ours?
-* What role does the manager play in making technical decisions?
+* **What role does the manager play in making technical decisions?**
 * What is an example of a change you have made in the team that improved the team?
 * What would be the most important problem you would want me to solve if I joined your team?
 * What opportunities for growth will your team provide?
-* What would I work on if I joined this team and who would I work most closely with?
+* **What would I work on if I joined this team and who would I work most closely with?**
 
 ### Leadership
 
